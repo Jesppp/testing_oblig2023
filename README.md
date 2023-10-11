@@ -1,3 +1,8 @@
+Fullført:
+Alternativ 1 ligger ytterst i Questions.json
+Alternativ 2 ligger i /src/Component og /__tests__.
+Alternativ 3 ligger også i src/Component og /__tests__.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
