@@ -1,0 +1,91 @@
+"questions": [
+  
+    {
+      "title": "Hva heter hovedstaden i Kenya?",
+      "answers": [
+        { 
+          "answer": "mombasa" 
+        },
+        {
+          "answer": "Denver"
+        },
+        {
+          "answer": "Oslo"
+        },
+        {
+          "answer": "Nairobi",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Byen har en massiv nasjonalpark."
+      }
+    }
+
+{
+      "title": "Hva heter Norges' statsminister?",
+      "answers": [
+        {
+          "answer": "Jens Stoltenberg" 
+        },
+        {
+          "answer": "Trygve Vedum"
+        },
+        {
+          "answer": "Erna Solberg"
+        },
+        {
+          "answer": "Jonas Gahr Støre",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Leder Arbeiderpartiet."
+      }
+    }
+
+  {
+      "title": "Hvilket land drikker mest kaffe?",
+      "answers": [
+        { 
+          "answer": "Danmark" 
+        },
+        {
+          "answer": "Island"
+        },
+        {
+          "answer": "Norge"
+        },
+        {
+          "answer": "Finland",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Landet deler grense med Russland."
+      }
+    }
+
+  {
+      "title": "Hva er norges største innsjø?",
+      "answers": [
+        { 
+          "answer": "Randsfjorden" 
+        },
+        {
+          "answer": "Femunden"
+        },
+        {
+          "answer": "Røssvatnet"
+        },
+        {
+          "answer": "Mjøsa",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Befinner seg i innlandet, med areal på > 350 kvadrat km."
+      }
+    }
+  
+  ]
