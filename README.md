@@ -1,7 +1,7 @@
 ## Fullført:
-### Alternativ 1 ligger ytterst i Questions.json
-### Alternativ 2 ligger i /src/Component og /__tests__.
-### Alternativ 3 ligger også i src/Component og /__tests__.
+#### Alternativ 1 ligger ytterst i Questions.json
+#### Alternativ 2 ligger i /src/Component og /__tests__.
+#### Alternativ 3 ligger også i src/Component og /__tests__.
 
 
 
